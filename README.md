@@ -27,5 +27,5 @@ Customs-oriented Cybersecurity Graduate with an A.A.S. degree (3.67 GPA), Cisco 
 * **EC-Council Learning:** Advanced Red Team Suite Continuous Training
 
 ## 📫 Connect With Me
-* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/gis3la](https://www.linkedin.com/in/gis3la/)
 * **Email:** gierazo@my.lonestar.edu
