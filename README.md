@@ -18,7 +18,7 @@ Customs-oriented Cybersecurity Graduate with an A.A.S. degree (3.67 GPA), Cisco 
 * **Objective:** Building active monitoring systems to aggregate event logging, evaluate traffic characteristics, and run alert triaging.
 * **Tools Used:** Wireshark, Cisco CyberOps Toolset.
 * **Current Labs:** Active participant in the MyDFIR SOC/SIEM framework training.
-
+* **Documentation:** [View Full SIEM Triage Lab Report](./reports/soc_alert_triage.md)
 ---
 
 ## 📈 Industry Certifications
