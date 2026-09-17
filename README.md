@@ -7,7 +7,8 @@ Customs-oriented Cybersecurity Graduate with an A.A.S. degree (3.67 GPA), Cisco 
 ### 1. Automated Network Reconnaissance & Port Auditing
 * **Objective:** Map target networks, sweep for open active hosts, and match discovered banners against known CVE vulnerability databases.
 * **Tools Used:** Nmap, Bash Scripting, Linux CLI.
-* **Documentation:** [View Full Lab Report](./reports/network_recon_report.md) *(Link this to your report file once uploaded)*
+* **Documentation:** [View Full Lab Report](./reports/network_recon_report.md)
+
 
 ### 2. Web Application Penetration Testing (OWASP Top 10)
 * **Objective:** Intercept and analyze HTTP/HTTPS application-layer traffic to identify injection flaws and authentication issues.
