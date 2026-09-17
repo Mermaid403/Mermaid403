@@ -13,7 +13,7 @@ Customs-oriented Cybersecurity Graduate with an A.A.S. degree (3.67 GPA), Cisco 
 ### 2. Web Application Penetration Testing (OWASP Top 10)
 * **Objective:** Intercept and analyze HTTP/HTTPS application-layer traffic to identify injection flaws and authentication issues.
 * **Tools Used:** Burp Suite, Kali Linux, OWASP WebGoat/DVWA.
-* **Documentation:** [View Full Lab Report](./reports/web_pentest_report.md)
+* **Documentation:** [View Full Lab Report](web_pentest_report.md)
 
 ### 3. Dedicated Blue Team & Incident Response Environments
 * **Objective:** Building active monitoring systems to aggregate event logging, evaluate traffic characteristics, and run alert triaging.
